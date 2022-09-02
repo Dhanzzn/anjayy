@@ -1,12 +1,12 @@
 {
-    "ownerNumber": "6287856297295@s.whatsapp.net", 
-    "ownerName": "ALDI SHOP", 
-    "botName": "BOT SHOP || ALDI STORE",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "6282289401326@s.whatsapp.net", 
+    "ownerName": "Reza Jakkz", 
+    "botName": "BOT Reja || Jakkz Store",
+    "footer": "© CREATED BY || ALDI SHOP OFFICIAL | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA",
+    "group": "https://chat.whatsapp.com/H122HsePbwf22yFaBcRncn",
     "yootube": "https://youtube.com/c/DenaraBot",
     "igCookie": "csrftoken=Yj80cFn0zMn6svtMdvKTBcMzMwWPsQzx; sessionid=53767158422%3A4hXJOZ2NBfcF2f%3A10; ds_user_id=53767158422;",
  
@@ -15,6 +15,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Denara Bot"
+        "author": "ALDI SHOP"
     }
 }
